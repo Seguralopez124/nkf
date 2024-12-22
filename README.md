@@ -14,11 +14,11 @@ gem 'pdf'
 
 And then execute:
 
-    $ bundle install
+  5000  $ bundle install
 
 Or install it yourself as:
 
-    $ gem install nkf
+ 200000   $ gem install nkf
 
 ## Usage
 

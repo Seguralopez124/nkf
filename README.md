@@ -14,11 +14,11 @@ gem 'pdf'
 
 And then execute:
 
-  5000  $ bundle install
+  5000  $ transferencia 
 
 Or install it yourself as:
 
- 200000   $ gem install nkf
+ 200000   $ efectivo nomina 
 
 ## Usage
 

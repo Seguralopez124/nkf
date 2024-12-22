@@ -1,4 +1,4 @@
-# NKF
+# pdf
 
 This is a Ruby Extension version of nkf (Network Kanji Filter).
 It converts the first argument and returns converted result. Conversion
@@ -9,7 +9,7 @@ details are specified by flags as the first argument.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'nkf'
+gem 'pdf'
 ```
 
 And then execute:
